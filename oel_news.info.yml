@@ -1,0 +1,6 @@
+name: OpenEuropa News
+description: OpenEuropa News.
+package: OpenEuropa
+
+type: module
+core: 8.x
