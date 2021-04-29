@@ -1,0 +1,15 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.featured_media
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+id: media.featured_media
+target_entity_type_id: media
+target_bundle: featured_media
+default_langcode: site_default
+language_alterable: false
